@@ -1,0 +1,288 @@
+DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Receita</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>  
+</head>
+<body>
+ <div class="container">
+        <section class="imagem-receita text-center mb-4">
+            <img src="image-omelette.jpeg" alt="Simples Omelletes" class="img-fluid rounded shadow">
+        </section>
+       <header class="text-center my-4">
+        <h1 class="display-4">Simples Omeletes de ovos</h1>
+       <p class="lead">Os ovos são a base da omelete, fornecendo uma textura macia e cremosa.</p>
+    </header>
+
+        <section class="ingredientes mb-4">
+           <hr><h2 class="h4 text-success">Ingredientes</h2>
+            <ul class="list-unstyled">
+                <li class="mb-2">Ingrediente 1</li>
+                <p>Ovos: 2 unidades Detalhe: Os ovos são a base da omelete, fornecendo uma textura macia e cremosa. Prefira ovos frescos para um sabor mais rico e uma melhor consistência.Sal: A gostoDetalhe: O sal realça o sabor natural dos ovos. Adicione com moderação para evitar que a omelete fique salgada.Pimenta-do-reino: A gostoDetalhe: A pimenta-do-reino moída na hora adiciona um leve toque picante e aroma à omelete. Pode ser substituída por outras especiarias a gosto.Manteiga ou azeite: 1 colher de sopaDetalhe: Usado para untar a frigideira, a manteiga confere um sabor mais rico, enquanto o azeite proporciona uma opção mais leve e saudável.Queijo ralado: 2 colheres de sopa<strong><i>(opcional)Detalhe:</i></strong> O queijo derrete durante o cozimento, tornando a omelete mais cremosa e saborosa. Queijos como muçarela, parmesão ou cheddar são boas opções.Ervas frescas: A gosto (opcional)Detalhe: Ervas como cebolinha, salsinha ou manjericão adicionam frescor e aroma à omelete, elevando o sabor do prato.Recheio adicional: Legumes, presunto, cogumelo,<strong><i>(opcional)detalhes:</i></strong>Personalize sua omelete adicionando ingredientes extras, como legumes picados, presunto ou cogumelos. Eles enriquecem o prato e adicionam textura e nutrientes.</p>
+                <li class="mb-2">Ingrediente 2</li>
+               <p>Omelete de ovo é o omelete de espinafre e queijo feta. Nele, você pode adicionar folhas de espinafre refogadas e pedaços de queijo feta aos ovos batidos. O resultado é um omelete nutritivo, com um sabor delicioso e equilibrado</p>
+                <li class="mb-2">Ingrediente 3</li>
+                <p><strong>Omelete de cogumelos e cebola caramelizada.</strong> Nele, você refoga cogumelos fatiados e cebolas até que fiquem dourados e caramelizados, depois adiciona aos ovos batidos. Esse omelete tem um sabor rico e levemente adocicado devido às cebolas caramelizadas.</p>
+                <!-- Adicione mais ingredientes conforme necessário -->
+            </ul>
+        </section>
+
+        <section class="instrucoes mb-4">
+           <hr><h2 class="h4 text-success">Instruções</h2>
+            <ol>
+                <li>Bata os ovos em uma tigela, adicione o sal, a pimenta-do-reino e bata novamente até ficar homogêneo.</li>
+                <li>Em uma frigideira antiaderente, aqueça a manteiga ou o azeite em fogo médio.</li>
+                <li>Despeje a mistura de ovos na frigideira e cozinhe por cerca de 2-3 minutos, mexendo delicadamente com uma espátula.</li>
+                <li>Quando a omelete estiver quase pronta, adicione o queijo ralado e as ervas frescas, se desejar.</li>
+                <li>Dobre a omelete ao meio e deslize-a para um prato. Sirva quente acompanhada de um recheio adicional de sua preferência.</li>
+            </ol>
+        </section>
+
+        <footer class="text-center mt-4">
+            <p>&copy; 2021 Minha Receita. Todos os direitos reservados.</p>
+        </footer>
+    </div>
+</body>
+</html>ruções</h2>
+            <ol class="pl-3">
+                <li class="mb-3">Passo 1 para preparar a receita.</li>
+                <p>O passo para preparar um omelete de ovo é quebrar os ovos em uma tigela e batê-los bem até que as gemas e claras estejam completamente misturadas.</p>
+                <li class="mb-3">Passo 2 para preparar a receita.</li>
+                <p>O passo é adicionar sal e pimenta a gosto aos ovos batidos, e misturar bem.</p>
+                <li class="mb-3">Passo 3 para preparar a receita.</li>
+                <p>Passo é aquecer uma frigideira antiaderente em fogo médio e adicionar um pouco de manteiga ou óleo, espalhando para cobrir toda a superfície.</p>
+                <!-- Adicione mais passos conforme necessário -->
+            </ol>
+        </section>
+
+        <section class="notas mb-4">
+           <hr><h2 class="h4 text-success">Notas Adicionais</h2>
+            <p><strong>Dicas, variações ou informações adicionais.</strong></p>
+            <p>Use ovos frescos: Eles garantem melhor sabor e textura.<br>
+Bata bem os ovos:Isso deixa o omelete mais leve.<br>
+Frigideira aquecida:Aqueça bem antes de adicionar os ovos para cozinhar uniformemente.<br>Não sobrecarregue: Adicione poucos ingredientes extras para não pesar o omelete.<br>
+Cozinhe em fogo médio: Evita queimar o exterior enquanto o interior cozinha.</p>
+        </section>
+        <section class="ingredientes mb-4">
+    <hr><h2 class="h4 text-success">Ingredientes</h2>
+    <div class="d-flex justify-content-between">
+        <span>Porções: <span id="porcoes">4</span></span>
+        <button class="btn btn-outline-success btn-sm" id="aumentar-porcoes">Aumentar Porções</button>
+        <button class="btn btn-outline-danger btn-sm" id="diminuir-porcoes">Diminuir Porções</button>
+    </div>
+    <ul id="lista-ingredientes" class="list-unstyled mt-3">
+        <li data-quantidade="200" class="mb-2">200g de Ingrediente 1</li>
+        <li data-quantidade="100" class="mb-2">100g de Ingrediente 2</li>
+        <li data-quantidade="50" class="mb-2">50g de Ingrediente 3</li>
+    </ul>
+</section>
+    </div>
+</body>
+</html>
+<style>
+  /* Reset básico para remover margens e espaçamentos padrão */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos do Body */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+hr {
+    border: 0; /* Remove a borda padrão */
+    height: 4px; /* Define a espessura da linha */
+    background-color: #333; /* Cor da linha */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Sombra abaixo da linha */
+    margin: 20px 0; /* Espaçamento superior e inferior */
+}
+#222228
+/* Header */
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2.5em;
+    color: #4CAF50;
+}
+
+header p {
+    font-size: 1.2em;
+    color: #666;
+}
+
+/* Imagem da receita */
+.imagem-receita {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.imagem-receita img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+ 
+  .image-container img { max-width: 100%; /* Faz com que a imagem seja responsiva */ height: auto; /* Mantém a proporção da imagem */ border: 5px solid hsl(30, 10%, 34%); /* Borda escura */ border-radius: 10px; /* Bordas arredondadas */ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave */ transition: box-shadow 0.3s ease; /* Transição suave para o efeito de hover */ } /* Efeito ao passar o mouse sobre a imagem */
+}
+
+/* Ingredientes */
+.ingredientes {
+    margin-bottom: 20px;
+}
+
+.ingredientes h2 {
+    font-size: 1.8em;
+    color: #4CAF50;
+    margin-bottom: 10px;
+}
+
+.ingredientes ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+.ingredientes ul li {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+/* Instruções */
+.instrucoes {
+    margin-bottom: 20px;
+}
+
+.instrucoes h2 {
+    font-size: 1.8em;
+    color: #4CAF50;
+    margin-bottom: 10px;
+}
+
+.instrucoes ol {
+    margin-left: 20px;
+}
+
+.instrucoes ol li {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+/* Notas Adicionais */
+.notas {
+    margin-bottom: 20px;
+}
+
+.notas h2 {
+    font-size: 1.8em;
+    color: #4CAF50;
+    margin-bottom: 10px;
+}
+
+.notas p {
+    font-size: 1.2em;
+}
+/* Adiciona animação de fade-in */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Aplicar animação de fade-in aos ingredientes e instruções */
+.ingredientes ul li,
+.instrucoes ol li {
+    opacity: 0;
+    animation: fadeIn 1s ease-out forwards;
+    animation-delay: calc(0.2s * var(--fade-order));
+}
+
+.ingredientes ul li {
+    --fade-order: 1;
+}
+
+.instrucoes ol li {
+    --fade-order: 1;
+}
+
+.ingredientes ul li:nth-child(2),
+.instrucoes ol li:nth-child(2) {
+    --fade-order: 2;
+}
+
+.ingredientes ul li:nth-child(3),
+.instrucoes ol li:nth-child(3) {
+    --fade-order: 3;
+}
+
+/* Adicione mais conforme necessário */
+/* Animação de hover nos botões */
+button {
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+button:hover {
+    background-color: #45a049;
+    transform: scale(1.05);
+}
+
+button:active {
+    transform: scale(0.95);
+}
+.imagem-receita img {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.imagem-receita img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+</style>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        let porcoes = 4;
+        const listaIngredientes = document.getElementById('lista-ingredientes');
+        const spanPorcoes = document.getElementById('porcoes');
+        
+        document.getElementById('aumentar-porcoes').addEventListener('click', function() {
+            porcoes++;
+            atualizarPorcoes();
+        });
+
+        document.getElementById('diminuir-porcoes').addEventListener('click', function() {
+            if (porcoes > 1) {
+                porcoes--;
+                atualizarPorcoes();
+            }
+        });
+
+        function atualizarPorcoes() {
+            spanPorcoes.textContent = porcoes;
+            listaIngredientes.querySelectorAll('li').forEach(function(item) {
+                const quantidadeOriginal = item.getAttribute('data-quantidade');
+                const novaQuantidade = quantidadeOriginal * porcoes / 4; // Ajuste para porções diferentes
+                item.textContent = novaQuantidade + 'g de ' + item.textContent.split('de ')[1];
+            });
+        }
+    });
+</script>
